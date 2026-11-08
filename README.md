@@ -1,2 +1,2 @@
 # emol-e.github.io
-this is just a personal test of the github pages functionality - not official work.
+Currently using this as a landing page for www.themuralsofwinnipeg.com as the server changes locations!
